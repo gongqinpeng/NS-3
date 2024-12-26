@@ -1,0 +1,3 @@
+C:/Users/Administrator/CLionProjects/aliyun1/cmake-build-debug/CMakeFiles/aliyun1.dir
+C:/Users/Administrator/CLionProjects/aliyun1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/aliyun1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
