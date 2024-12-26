@@ -6,3 +6,6 @@
 !subdir/
 !scratch-simulator.cc
 !CMakeLists.txt
+!*.cc
+!*.py
+!*.json
